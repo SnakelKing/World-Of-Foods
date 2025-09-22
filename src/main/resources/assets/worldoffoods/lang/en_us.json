@@ -1,0 +1,236 @@
+{
+  "item.worldoffoods.copper_nugget": "Copper Nugget",
+
+  "creativetab.worldoffoods.plants": "Plants",
+  "creativetab.worldoffoods.items": "Items",
+
+  "item.worldoffoods.copper_sword": "Copper Sword",
+  "item.worldoffoods.copper_axe": "Copper Axe",
+  "item.worldoffoods.copper_pickaxe": "Copper Pickaxe",
+  "item.worldoffoods.copper_shovel": "Copper Shovel",
+  "item.worldoffoods.copper_hoe": "Copper Hoe",
+
+  "item.worldoffoods.copper_helmet": "Copper Helmet",
+  "item.worldoffoods.copper_chestplate": "Copper Chestplate",
+  "item.worldoffoods.copper_leggings": "Copper Legging",
+  "item.worldoffoods.copper_boots": "Copper Boots",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "item.worldoffoods.tomato": "Tomato",
+  "item.worldoffoods.tomato_seeds": "Tomato Seeds",
+  "block.worldoffoods.tomato_crop": "Tomato Crop",
+
+  "item.worldoffoods.eggplant": "Eggplant",
+  "item.worldoffoods.eggplant_seeds": "Eggplant Seeds",
+  "block.worldoffoods.eggplant_crop": "Eggplant Crop",
+
+  "item.worldoffoods.broccoli": "Broccoli",
+  "item.worldoffoods.broccoli_seeds": "Broccoli Seeds",
+  "block.worldoffoods.broccoli_crop": "Broccoli Crop",
+
+  "item.worldoffoods.corn": "Corn",
+  "item.worldoffoods.corn_seeds": "Corn Seeds",
+  "block.worldoffoods.corn_crop": "Corn Crop",
+
+  "item.worldoffoods.artichoke": "Artichoke",
+  "item.worldoffoods.artichoke_seeds": "Artichoke Seeds",
+  "block.worldoffoods.artichoke_crop": "Artichoke Crop",
+
+  "item.worldoffoods.asparagus": "Asparagus",
+  "item.worldoffoods.asparagus_seeds": "Asparagus Seeds",
+  "block.worldoffoods.asparagus_crop": "Asparagus Crop",
+
+  "item.worldoffoods.blackberry": "Blackberry",
+  "item.worldoffoods.blackberry_seeds": "Blackberry Seeds",
+  "block.worldoffoods.blackberry_crop": "Blackberry Crop",
+
+  "item.worldoffoods.leek": "Leek",
+  "item.worldoffoods.leek_seeds": "Leek Seeds",
+  "block.worldoffoods.leek_crop": "Leek Crop",
+
+  "item.worldoffoods.blueberry": "Blueberry",
+  "item.worldoffoods.blueberry_seeds": "Blueberry Seeds",
+  "block.worldoffoods.blueberry_crop": "Blueberry Crop",
+
+  "item.worldoffoods.cranberry": "Cranberry",
+  "item.worldoffoods.cranberry_seeds": "Cranberry Seeds",
+  "block.worldoffoods.cranberry_crop": "Cranberry Crop",
+
+  "item.worldoffoods.currant": "Currant",
+  "item.worldoffoods.currant_seeds": "Currant Seeds",
+  "block.worldoffoods.currant_crop": "Currant Crop",
+
+  "item.worldoffoods.elderberry": "Elderberry",
+  "item.worldoffoods.elderberry_seeds": "Elderberry Seeds",
+  "block.worldoffoods.elderberry_crop": "Elderberry Crop",
+
+  "item.worldoffoods.grape": "Grape",
+  "item.worldoffoods.grape_seeds": "Grape Seeds",
+  "block.worldoffoods.grape_crop": "Grape Crop",
+
+  "item.worldoffoods.pineapple": "Pineapple",
+  "item.worldoffoods.pineapple_seeds": "Pineapple Seeds",
+  "block.worldoffoods.pineapple_crop": "Pineapple Crop",
+
+  "item.worldoffoods.raspberry": "Raspberry",
+  "item.worldoffoods.raspberry_seeds": "Raspberry Seeds",
+  "block.worldoffoods.raspberry_crop": "Raspberry Crop",
+
+  "item.worldoffoods.strawberry": "Strawberry",
+  "item.worldoffoods.strawberry_seeds": "Strawberry Seeds",
+  "block.worldoffoods.strawberry_crop": "Strawberry Crop",
+
+  "item.worldoffoods.cabbage": "Cabbage",
+  "item.worldoffoods.cabbage_seeds": "Cabbage Seeds",
+  "block.worldoffoods.cabbage_crop": "Cabbage Crop",
+
+  "item.worldoffoods.bellpepper": "Bell Pepper",
+  "item.worldoffoods.bellpepper_seeds": "Bell Pepper Seeds",
+  "block.worldoffoods.bellpepper_crop": "Bell Pepper Crop",
+
+  "item.worldoffoods.cauliflower": "Cauliflower",
+  "item.worldoffoods.cauliflower_seeds": "Cauliflower Seeds",
+  "block.worldoffoods.cauliflower_crop": "Cauliflower Crop",
+
+  "item.worldoffoods.celery": "Celery",
+  "item.worldoffoods.celery_seeds": "Celery Seeds",
+  "block.worldoffoods.celery_crop": "Celery Crop",
+
+  "item.worldoffoods.blackbean": "Black Bean",
+  "item.worldoffoods.blackbean_seeds": "Black Bean Seeds",
+  "block.worldoffoods.blackbean_crop": "Black Bean Crop",
+
+  "item.worldoffoods.cucumber": "Cucumber",
+  "item.worldoffoods.cucumber_seeds": "Cucumber Seeds",
+  "block.worldoffoods.cucumber_crop": "Cucumber Crop",
+
+  "item.worldoffoods.kale": "Kale",
+  "item.worldoffoods.kale_seeds": "Kale Seeds",
+  "block.worldoffoods.kale_crop": "Kale Crop",
+
+  "item.worldoffoods.garlic": "Garlic",
+  "item.worldoffoods.garlic_seeds": "Garlic Seeds",
+  "block.worldoffoods.garlic_crop": "Garlic Crop",
+
+  "item.worldoffoods.hops": "Hops",
+  "item.worldoffoods.hops_seeds": "Hops Seeds",
+  "block.worldoffoods.hops_crop": "Hops Crop",
+
+  "item.worldoffoods.chile_pepper": "Chile Pepper",
+  "item.worldoffoods.chile_pepper_seeds": "Chile Pepper Seeds",
+  "block.worldoffoods.chile_pepper_crop": "Chile Pepper Crop",
+
+  "item.worldoffoods.squash": "Squash",
+  "item.worldoffoods.squash_seeds": "Squash Seeds",
+  "block.worldoffoods.squash_crop": "Squash Crop",
+
+  "item.worldoffoods.lettuce": "Lettuce",
+  "item.worldoffoods.lettuce_seeds": "Lettuce Seeds",
+  "block.worldoffoods.lettuce_crop": "Lettuce Crop",
+
+  "item.worldoffoods.onion": "Onion",
+  "item.worldoffoods.onion_seeds": "Onion Seeds",
+  "block.worldoffoods.onion_crop": "Onion Crop",
+
+  "item.worldoffoods.radish": "Radish",
+  "item.worldoffoods.radish_seeds": "Radish Seeds",
+  "block.worldoffoods.radish_crop": "Radish Crop",
+
+  "item.worldoffoods.rhubarb": "Rhubarb",
+  "item.worldoffoods.rhubarb_seeds": "Rhubarb Seeds",
+  "block.worldoffoods.rhubarb_crop": "Rhubarb Crop",
+
+  "item.worldoffoods.rutabaga": "Rutabaga",
+  "item.worldoffoods.rutabaga_seeds": "Rutabaga Seeds",
+  "block.worldoffoods.rutabaga_crop": "Rutabaga Crop",
+
+  "item.worldoffoods.soybean": "Soybean",
+  "item.worldoffoods.soybean_seeds": "Soybean Seeds",
+  "block.worldoffoods.soybean_crop": "Soybean Crop",
+
+  "item.worldoffoods.spinach": "Spinach",
+  "item.worldoffoods.spinach_seeds": "Spinach Seeds",
+  "block.worldoffoods.spinach_crop": "Spinach Crop",
+
+  "item.worldoffoods.sweetpotato": "Sweet Potato",
+  "item.worldoffoods.sweetpotato_seeds": "Sweet Potato Seeds",
+  "block.worldoffoods.sweetpotato_crop": "Sweet Potato Crop",
+
+  "item.worldoffoods.greenonion": "Green Onion",
+  "item.worldoffoods.greenonion_seeds": "Green Onion Seeds",
+  "block.worldoffoods.greenonion_crop": "Green Onion Crop",
+
+  "item.worldoffoods.tomatillo": "Tomatillo",
+  "item.worldoffoods.tomatillo_seeds": "Tomatillo Seeds",
+  "block.worldoffoods.tomatillo_crop": "Tomatillo Crop",
+
+  "item.worldoffoods.turnip": "Turnip",
+  "item.worldoffoods.turnip_seeds": "Turnip Seeds",
+  "block.worldoffoods.turnip_crop": "Turnip Crop",
+
+  "item.worldoffoods.yam": "Yam",
+  "item.worldoffoods.yam_seeds": "Yam Seeds",
+  "block.worldoffoods.yam_crop": "Yam Crop",
+
+  "item.worldoffoods.zucchini": "Zucchini",
+  "item.worldoffoods.zucchini_seeds": "Zucchini Seeds",
+  "block.worldoffoods.zucchini_crop": "Zucchini Crop",
+
+  "item.worldoffoods.barley": "Barley",
+  "item.worldoffoods.barley_seeds": "Barley Seeds",
+  "block.worldoffoods.barley_crop": "Barley Crop",
+
+  "item.worldoffoods.basil": "Basil",
+  "item.worldoffoods.basil_seeds": "Basil Seeds",
+  "block.worldoffoods.basil_crop": "Basil Crop",
+
+  "item.worldoffoods.ginger": "Ginger",
+  "item.worldoffoods.ginger_seeds": "Ginger Seeds",
+  "block.worldoffoods.ginger_crop": "Ginger Crop",
+
+  "item.worldoffoods.mustard": "Mustard",
+  "item.worldoffoods.mustard_seeds": "Mustard Seeds",
+  "block.worldoffoods.mustard_crop": "Mustard Crop",
+
+  "item.worldoffoods.oat": "Oat",
+  "item.worldoffoods.oat_seeds": "Oat Seeds",
+  "block.worldoffoods.oat_crop": "Oat Crop",
+
+  "item.worldoffoods.peanut": "Peanut",
+  "item.worldoffoods.peanut_seeds": "Peanut Seeds",
+  "block.worldoffoods.peanut_crop": "Peanut Crop",
+
+  "item.worldoffoods.pepper": "Pepper",
+  "item.worldoffoods.pepper_seeds": "Pepper Seeds",
+  "block.worldoffoods.pepper_crop": "Pepper Crop",
+
+  "item.worldoffoods.rice": "Rice",
+  "item.worldoffoods.rice_seeds": "Rice Seeds",
+  "block.worldoffoods.rice_crop": "Rice Crop",
+
+  "item.worldoffoods.turmeric": "Turmeric",
+  "item.worldoffoods.turmeric_seeds": "Turmeric Seeds",
+  "block.worldoffoods.turmeric_crop": "Turmeric Crop",
+
+  "item.worldoffoods.vanilla": "Vanilla",
+  "item.worldoffoods.vanilla_seeds": "Vanilla Seeds",
+  "block.worldoffoods.vanilla_crop": "Vanilla Crop",
+
+  "item.worldoffoods.greenbean": "Greenbean",
+  "item.worldoffoods.greenbean_seeds": "Greenbean Seeds",
+  "block.worldoffoods.greenbean_crop": "Greenbean Crop"
+}

@@ -1,5 +1,9 @@
 package net.cefu.worldoffoods;
 
+import net.cefu.worldoffoods.block.ModBlocks;
+import net.cefu.worldoffoods.item.ModCreativeModeTabs;
+import net.cefu.worldoffoods.item.ModItems;
+import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -27,6 +31,11 @@ public class WorldOfFoods {
 
         NeoForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
+
         modEventBus.addListener(this::addCreative);
 
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
@@ -37,7 +46,9 @@ public class WorldOfFoods {
     }
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-
+        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItems.COPPER_NUGGET);
+        }
     }
 
     @SubscribeEvent

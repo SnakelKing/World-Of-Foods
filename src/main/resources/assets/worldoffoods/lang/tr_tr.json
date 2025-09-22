@@ -1,0 +1,240 @@
+{
+  "item.worldoffoods.copper_nugget": "Bakır Parçası",
+
+  "creativetab.worldoffoods.plants": "Bitkiler",
+  "creativetab.worldoffoods.items": "İtemler",
+
+  "item.worldoffoods.copper_sword": "Bakır Kılıç",
+  "item.worldoffoods.copper_axe": "Bakır Balta",
+  "item.worldoffoods.copper_pickaxe": "Bakır Kazma",
+  "item.worldoffoods.copper_shovel": "Bakır Kürek",
+  "item.worldoffoods.copper_hoe": "Bakır Çapa",
+
+  "item.worldoffoods.copper_helmet": "Bakır Kask",
+  "item.worldoffoods.copper_chestplate": "Bakır Göğüslük",
+  "item.worldoffoods.copper_leggings": "Bakır Pantolan",
+  "item.worldoffoods.copper_boots": "Bakır Ayakkabı",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "item.worldoffoods.tomato": "Domates",
+  "item.worldoffoods.tomato_seeds": "Domates Tohumu",
+  "block.worldoffoods.tomato_crop": "Domates Mahsulü",
+
+  "item.worldoffoods.eggplant": "Patlıcan",
+  "item.worldoffoods.eggplant_seeds": "Patlıcan Tohumu",
+  "block.worldoffoods.eggplant_crop": "Patlıcan Mahsulü",
+
+  "item.worldoffoods.broccoli": "Brokoli",
+  "item.worldoffoods.broccoli_seeds": "Brokoli Tohumu",
+  "block.worldoffoods.broccoli_crop": "Brokoli Mahsulü",
+
+  "item.worldoffoods.corn": "Mısır",
+  "item.worldoffoods.corn_seeds": "Mısır Tohumu",
+  "block.worldoffoods.corn_crop": "Mısır Mahsulü",
+
+  "item.worldoffoods.artichoke": "Enginar",
+  "item.worldoffoods.artichoke_seeds": "Enginar Tohumu",
+  "block.worldoffoods.artichoke_crop": "Enginar Mahsulü",
+
+  "item.worldoffoods.asparagus": "Kuşkonmaz",
+  "item.worldoffoods.asparagus_seeds": "Kuşkonmaz Tohumu",
+  "block.worldoffoods.asparagus_crop": "Kuşkonmaz Mahsulü",
+
+  "item.worldoffoods.blackberry": "Böğürtlen",
+  "item.worldoffoods.blackberry_seeds": "Böğürtlen Tohumu",
+  "block.worldoffoods.blackberry_crop": "Böğürtlen Mahsulü",
+
+  "item.worldoffoods.leek": "Pırasa",
+  "item.worldoffoods.leek_seeds": "Pırasa Tohumu",
+  "block.worldoffoods.leek_crop": "Pırasa Mahsulü",
+
+  "item.worldoffoods.blueberry": "Yaban Mersini",
+  "item.worldoffoods.blueberry_seeds": "Yaban mersini Tohumu",
+  "block.worldoffoods.blueberry_crop": "Yaban mersini Mahsulü",
+
+  "item.worldoffoods.cranberry": "Turna Yemişi",
+  "item.worldoffoods.cranberry_seeds": "Turna Yemişi Tohumu",
+  "block.worldoffoods.cranberry_crop": "Turna Yemişi Mahsulü",
+
+  "item.worldoffoods.currant": "Frenk Üzümü",
+  "item.worldoffoods.currant_seeds": "Frenk Üzümü Tohumu",
+  "block.worldoffoods.currant_crop": "Frenk Üzümü Mahsulü",
+
+  "item.worldoffoods.elderberry": "Mürver",
+  "item.worldoffoods.elderberry_seeds": "Mürver Tohumu",
+  "block.worldoffoods.elderberry_crop": "Mürver Mahsulü",
+
+  "item.worldoffoods.grape": "Üzüm",
+  "item.worldoffoods.grape_seeds": "Üzüm Çekirdeği",
+  "block.worldoffoods.grape_crop": "Üzüm Mahsulü",
+
+  "item.worldoffoods.pineapple": "Ananas",
+  "item.worldoffoods.pineapple_seeds": "Ananas Tohumu",
+  "block.worldoffoods.pineapple_crop": "Ananas Mahsulü",
+
+  "item.worldoffoods.raspberry": "Ahududu",
+  "item.worldoffoods.raspberry_seeds": "Ahududu Tohumu",
+  "block.worldoffoods.raspberry_crop": "Ahududu Mahsulü",
+
+  "item.worldoffoods.strawberry": "Çilek",
+  "item.worldoffoods.strawberry_seeds": "Çilek Tohumu",
+  "block.worldoffoods.strawberry_crop": "Çilek Mahsulü",
+
+  "item.worldoffoods.cabbage": "Lahana",
+  "item.worldoffoods.cabbage_seeds": "Lahana Tohumu",
+  "block.worldoffoods.cabbage_crop": "Lahana Mahsulü",
+
+  "item.worldoffoods.bellpepper": "Dolmalık Biber",
+  "item.worldoffoods.bellpepper_seeds": "Biber Tohumu",
+  "block.worldoffoods.bellpepper_crop": "Biber Mahsulü",
+
+  "item.worldoffoods.cauliflower": "Karnabahar",
+  "item.worldoffoods.cauliflower_seeds": "Karnabahar Tohumu",
+  "block.worldoffoods.cauliflower_crop": "Karnabahar Mahsulü",
+
+  "item.worldoffoods.celery": "Kereviz",
+  "item.worldoffoods.celery_seeds": "Kereviz Tohumu",
+  "block.worldoffoods.celery_crop": "Kereviz Mahsulü",
+
+  "item.worldoffoods.blackbean": "Sihay Fasulye",
+  "item.worldoffoods.blackbean_seeds": "Fasulye Tohumu",
+  "block.worldoffoods.blackbean_crop": "Fasulye Mahsulü",
+
+  "item.worldoffoods.cucumber": "Hıyar",
+  "item.worldoffoods.cucumber_seeds": "Hıyar Tohumu",
+  "block.worldoffoods.cucumber_crop": "Hıyar Mahsulü",
+
+  "item.worldoffoods.kale": "Kıvırcık",
+  "item.worldoffoods.kale_seeds": "Kıvırcık Tohumu",
+  "block.worldoffoods.kale_crop": "Kıvırcık Mahsulü",
+
+  "item.worldoffoods.garlic": "Sarımsak",
+  "item.worldoffoods.garlic_seeds": "Sarımsak Tohumu",
+  "block.worldoffoods.garlic_crop": "Sarımsak Mahsulü",
+
+  "item.worldoffoods.hops": "Şerbetçi Otu",
+  "item.worldoffoods.hops_seeds": "Şerbetçi Otu Tohumu",
+  "block.worldoffoods.hops_crop": "Şerbetçi Otu Mahsulü",
+
+  "item.worldoffoods.chile_pepper": "Şili Biberi",
+  "item.worldoffoods.chile_pepper_seeds": "Şili Biberi Tohumu",
+  "block.worldoffoods.chile_pepper_crop": "Şili Biberi Mahsulü",
+
+  "item.worldoffoods.squash": "Armut Kabağı",
+  "item.worldoffoods.squash_seeds": "Armut Kabağı Tohumu",
+  "block.worldoffoods.squash_crop": "Armut Kabağı Mahsulü",
+
+  "item.worldoffoods.lettuce": "Marul",
+  "item.worldoffoods.lettuce_seeds": "Marul Tohumu",
+  "block.worldoffoods.lettuce_crop": "Marul Mahsulü",
+
+  "item.worldoffoods.onion": "Soğan",
+  "item.worldoffoods.onion_seeds": "Soğan Tohumu",
+  "block.worldoffoods.onion_crop": "Soğan Mahsulü",
+
+  "item.worldoffoods.radish": "Turp",
+  "item.worldoffoods.radish_seeds": "Turp Tohumu",
+  "block.worldoffoods.radish_crop": "Turp Mahsulü",
+
+  "item.worldoffoods.rhubarb": "Ravent",
+  "item.worldoffoods.rhubarb_seeds": "Ravent Tohumu",
+  "block.worldoffoods.rhubarb_crop": "Ravent Mahsulü",
+
+  "item.worldoffoods.rutabaga": "Şalgam Otu",
+  "item.worldoffoods.rutabaga_seeds": "Şalgam Otu Tohumu",
+  "block.worldoffoods.rutabaga_crop": "Şalgam Otu Mahsulü",
+
+  "item.worldoffoods.soybean": "Soya Fasulyesi",
+  "item.worldoffoods.soybean_seeds": "Soya Fasulyesi Tohumu",
+  "block.worldoffoods.soybean_crop": "Soya Fasulyesi Mahsulü",
+
+  "item.worldoffoods.spinach": "Ispanak",
+  "item.worldoffoods.spinach_seeds": "Ispanak Tohumu",
+  "block.worldoffoods.spinach_crop": "Ispanak Mahsulü",
+
+  "item.worldoffoods.sweetpotato": "Tatlı Patates",
+  "item.worldoffoods.sweetpotato_seeds": "Tatlı Patates Tohumu",
+  "block.worldoffoods.sweetpotato_crop": "Tatlı Patates Mahsulü",
+
+  "item.worldoffoods.greenonion": "Yeşil Soğan",
+  "item.worldoffoods.greenonion_seeds": "Yeşil Soğan Tohumu",
+  "block.worldoffoods.greenonion_crop": "Yeşil Soğan Mahsulü",
+
+  "item.worldoffoods.tomatillo": "Yeşil Domates",
+  "item.worldoffoods.tomatillo_seeds": "Yeşil Domates Tohumu",
+  "block.worldoffoods.tomatillo_crop": "Yeşil Domates Mahsulü",
+
+  "item.worldoffoods.turnip": "Şalgam",
+  "item.worldoffoods.turnip_seeds": "Şalgam Tohumu",
+  "block.worldoffoods.turnip_crop": "Şalgam Mahsulü",
+
+  "item.worldoffoods.yam": "Yam",
+  "item.worldoffoods.yam_seeds": "Yam Tohumu",
+  "block.worldoffoods.yam_crop": "Yam Mahsulü",
+
+  "item.worldoffoods.zucchini": "Kabak",
+  "item.worldoffoods.zucchini_seeds": "Kabak Tohumu",
+  "block.worldoffoods.zucchini_crop": "Kabak Mahsulü",
+
+  "item.worldoffoods.barley": "Arpa",
+  "item.worldoffoods.barley_seeds": "Arpa Tohumu",
+  "block.worldoffoods.barley_crop": "Arpa Mahsulü",
+
+  "item.worldoffoods.basil": "Fesleğen",
+  "item.worldoffoods.basil_seeds": "Fesleğen Tohumu",
+  "block.worldoffoods.basil_crop": "Fesleğen Mahsulü",
+
+  "item.worldoffoods.ginger": "Zencefil",
+  "item.worldoffoods.ginger_seeds": "Zencefil Tohumu",
+  "block.worldoffoods.ginger_crop": "Zencefil Mahsulü",
+
+  "item.worldoffoods.mustard": "Hardal",
+  "item.worldoffoods.mustard_seeds": "Hardal Tohumu",
+  "block.worldoffoods.mustard_crop": "Hardal Mahsulü",
+
+  "item.worldoffoods.oat": "Yulaf",
+  "item.worldoffoods.oat_seeds": "Yulaf Tohumu",
+  "block.worldoffoods.oat_crop": "Yulaf Mahsulü",
+
+  "item.worldoffoods.peanut": "Yer Fıstığı",
+  "item.worldoffoods.peanut_seeds": "Yer Fıstığı Tohumu",
+  "block.worldoffoods.peanut_crop": "Yer Fıstığı Mahsulü",
+
+  "item.worldoffoods.pepper": "Biber",
+  "item.worldoffoods.pepper_seeds": "Biber Tohumu",
+  "block.worldoffoods.pepper_crop": "Biber Mahsulü",
+
+  "item.worldoffoods.rice": "Pirinç",
+  "item.worldoffoods.rice_seeds": "Pirinç Tohumu",
+  "block.worldoffoods.rice_crop": "Pirinç Mahsulü",
+
+  "item.worldoffoods.turmeric": "Zerdeçal",
+  "item.worldoffoods.turmeric_seeds": "Zerdeçal Tohumu",
+  "block.worldoffoods.turmeric_crop": "Zerdeçal Mahsulü",
+
+  "item.worldoffoods.vanilla": "Vanilya",
+  "item.worldoffoods.vanilla_seeds": "Vanilya Tohumu",
+  "block.worldoffoods.vanilla_crop": "Vanilya Mahsulü",
+
+  "item.worldoffoods.apple": "Elma",
+  "block.worldoffoods.apple_leaves": "Elma Yaprakları",
+  "block.worldoffoods.apple_sapling": "Elma Fidanı"
+
+
+
+
+}
