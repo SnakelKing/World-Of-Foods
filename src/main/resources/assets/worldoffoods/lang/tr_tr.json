@@ -30,211 +30,262 @@
 
 
 
+
+
+
   "item.worldoffoods.tomato": "Domates",
   "item.worldoffoods.tomato_seeds": "Domates Tohumu",
   "block.worldoffoods.tomato_crop": "Domates Mahsulü",
+  "tooltip.worldoffoods.tomato.tooltip": "Kırmızı ve sulu, hem yemeğe hem de fırlatmaya uygun.",
 
   "item.worldoffoods.eggplant": "Patlıcan",
   "item.worldoffoods.eggplant_seeds": "Patlıcan Tohumu",
   "block.worldoffoods.eggplant_crop": "Patlıcan Mahsulü",
+  "tooltip.worldoffoods.eggplant.tooltip": "Mor rengiyle gizemli bir sebze, ateşte pişince lezzetlenir.",
 
   "item.worldoffoods.broccoli": "Brokoli",
   "item.worldoffoods.broccoli_seeds": "Brokoli Tohumu",
   "block.worldoffoods.broccoli_crop": "Brokoli Mahsulü",
+  "tooltip.worldoffoods.broccoli.tooltip":"Ağaca benzeyen bu minik sebze, sandığından daha besleyici.",
 
   "item.worldoffoods.corn": "Mısır",
   "item.worldoffoods.corn_seeds": "Mısır Tohumu",
   "block.worldoffoods.corn_crop": "Mısır Mahsulü",
+  "tooltip.worldoffoods.corn.tooltip": "Güneş ışığından doğan altın taneler.",
 
   "item.worldoffoods.artichoke": "Enginar",
   "item.worldoffoods.artichoke_seeds": "Enginar Tohumu",
   "block.worldoffoods.artichoke_crop": "Enginar Mahsulü",
+  "tooltip.worldoffoods.artichoke.tooltip": "Dikenli dış kabuğunun altında lezzetli bir kalp saklar.",
 
   "item.worldoffoods.asparagus": "Kuşkonmaz",
   "item.worldoffoods.asparagus_seeds": "Kuşkonmaz Tohumu",
   "block.worldoffoods.asparagus_crop": "Kuşkonmaz Mahsulü",
+  "tooltip.worldoffoods.asparagus.tooltip":  "Mızrak gibi uzayan bu sebze, baharın habercisidir.",
 
   "item.worldoffoods.blackberry": "Böğürtlen",
   "item.worldoffoods.blackberry_seeds": "Böğürtlen Tohumu",
   "block.worldoffoods.blackberry_crop": "Böğürtlen Mahsulü",
+  "tooltip.worldoffoods.blackberry.tooltip":  "Dikenli çalıların ardındaki karanlık ve tatlı bir hazine.",
 
   "item.worldoffoods.leek": "Pırasa",
   "item.worldoffoods.leek_seeds": "Pırasa Tohumu",
   "block.worldoffoods.leek_crop": "Pırasa Mahsulü",
+  "tooltip.worldoffoods.leek.tooltip":  "Soğanın daha nazik ve uzun akrabası.",
 
   "item.worldoffoods.blueberry": "Yaban Mersini",
   "item.worldoffoods.blueberry_seeds": "Yaban mersini Tohumu",
   "block.worldoffoods.blueberry_crop": "Yaban mersini Mahsulü",
+  "tooltip.worldoffoods.blueberry.tooltip":  "Gökyüzü renginde minik lezzet patlamaları.",
 
   "item.worldoffoods.cranberry": "Turna Yemişi",
   "item.worldoffoods.cranberry_seeds": "Turna Yemişi Tohumu",
   "block.worldoffoods.cranberry_crop": "Turna Yemişi Mahsulü",
+  "tooltip.worldoffoods.cranberry.tooltip": "Bataklıkların ekşi mücevheri, kış ziyafetlerinin vazgeçilmezi.",
 
   "item.worldoffoods.currant": "Frenk Üzümü",
   "item.worldoffoods.currant_seeds": "Frenk Üzümü Tohumu",
   "block.worldoffoods.currant_crop": "Frenk Üzümü Mahsulü",
+  "tooltip.worldoffoods.currant.tooltip": "Parlak, ekşi ve canlandırıcı küçük küreler.",
 
   "item.worldoffoods.elderberry": "Mürver",
   "item.worldoffoods.elderberry_seeds": "Mürver Tohumu",
   "block.worldoffoods.elderberry_crop": "Mürver Mahsulü",
+  "tooltip.worldoffoods.elderberry.tooltip": "Koyu mor salkımlar, gizemli iksirler için bir fısıltı taşır.",
 
   "item.worldoffoods.grape": "Üzüm",
   "item.worldoffoods.grape_seeds": "Üzüm Çekirdeği",
   "block.worldoffoods.grape_crop": "Üzüm Mahsulü",
+  "tooltip.worldoffoods.grape.tooltip":  "Salkım salkım büyür, suyu çok değerlidir.",
 
   "item.worldoffoods.pineapple": "Ananas",
   "item.worldoffoods.pineapple_seeds": "Ananas Tohumu",
   "block.worldoffoods.pineapple_crop": "Ananas Mahsulü",
+  "tooltip.worldoffoods.pineapple.tooltip": "Dışı zırhlı, içi baldan tatlı tropik bir ödül.",
 
   "item.worldoffoods.raspberry": "Ahududu",
   "item.worldoffoods.raspberry_seeds": "Ahududu Tohumu",
   "block.worldoffoods.raspberry_crop": "Ahududu Mahsulü",
+  "tooltip.worldoffoods.raspberry.tooltip": "Narin ve tatlı, parmağına yüzük gibi takabilirsin.",
 
   "item.worldoffoods.strawberry": "Çilek",
   "item.worldoffoods.strawberry_seeds": "Çilek Tohumu",
   "block.worldoffoods.strawberry_crop": "Çilek Mahsulü",
+  "tooltip.worldoffoods.strawberry.tooltip": "Güneşin öptüğü tatlı, kırmızı bir mücevher.",
 
   "item.worldoffoods.cabbage": "Lahana",
   "item.worldoffoods.cabbage_seeds": "Lahana Tohumu",
   "block.worldoffoods.cabbage_crop": "Lahana Mahsulü",
+  "tooltip.worldoffoods.cabbage.tooltip": "Kat kat yaprakların oluşturduğu sıkı bir top.",
 
   "item.worldoffoods.bellpepper": "Dolmalık Biber",
   "item.worldoffoods.bellpepper_seeds": "Biber Tohumu",
   "block.worldoffoods.bellpepper_crop": "Biber Mahsulü",
+  "tooltip.worldoffoods.bellpepper.tooltip": "Farklı renklerde gelir, acısı olmayan tatlı bir biber.",
 
   "item.worldoffoods.cauliflower": "Karnabahar",
   "item.worldoffoods.cauliflower_seeds": "Karnabahar Tohumu",
   "block.worldoffoods.cauliflower_crop": "Karnabahar Mahsulü",
+  "tooltip.worldoffoods.cauliflower.tooltip": "Buluta benzeyen bu sebze, aslında bir çiçek.",
 
   "item.worldoffoods.celery": "Kereviz",
   "item.worldoffoods.celery_seeds": "Kereviz Tohumu",
   "block.worldoffoods.celery_crop": "Kereviz Mahsulü",
+  "tooltip.worldoffoods.celery.tooltip": "Su dolu ve lifli, çiğnerken ses çıkarır.",
 
-  "item.worldoffoods.blackbean": "Sihay Fasulye",
+  "item.worldoffoods.blackbean": "Siyah Fasulye",
   "item.worldoffoods.blackbean_seeds": "Fasulye Tohumu",
   "block.worldoffoods.blackbean_crop": "Fasulye Mahsulü",
+  "tooltip.worldoffoods.blackbean.tooltip": "Koyu renkli ve besleyici, güveçlerin olmazsa olmazı.",
 
   "item.worldoffoods.cucumber": "Hıyar",
   "item.worldoffoods.cucumber_seeds": "Hıyar Tohumu",
   "block.worldoffoods.cucumber_crop": "Hıyar Mahsulü",
+  "tooltip.worldoffoods.cucumber.tooltip": "Serinletici ve sulu, Creeper'lar kadar yeşil.",
 
   "item.worldoffoods.kale": "Kıvırcık",
   "item.worldoffoods.kale_seeds": "Kıvırcık Tohumu",
   "block.worldoffoods.kale_crop": "Kıvırcık Mahsulü",
+  "tooltip.worldoffoods.kale.tooltip": "Sert yaprakları en zorlu kışlara bile dayanır.",
 
   "item.worldoffoods.garlic": "Sarımsak",
   "item.worldoffoods.garlic_seeds": "Sarımsak Tohumu",
   "block.worldoffoods.garlic_crop": "Sarımsak Mahsulü",
+  "tooltip.worldoffoods.garlic.tooltip": "Keskin kokusu canavarları uzak tutabilir... denemeye değer.",
 
   "item.worldoffoods.hops": "Şerbetçi Otu",
   "item.worldoffoods.hops_seeds": "Şerbetçi Otu Tohumu",
   "block.worldoffoods.hops_crop": "Şerbetçi Otu Mahsulü",
+  "tooltip.worldofoods.hops.tooltip": "Acımsı bir aroma, bazı içecekleri daha ilginç kılar.",
 
   "item.worldoffoods.chile_pepper": "Şili Biberi",
   "item.worldoffoods.chile_pepper_seeds": "Şili Biberi Tohumu",
   "block.worldoffoods.chile_pepper_crop": "Şili Biberi Mahsulü",
+  "tooltip.worldoffoods.chile_pepper.tooltip": "Ateşli bir ısırık! Bazıları sıcağı sever.",
 
   "item.worldoffoods.squash": "Armut Kabağı",
   "item.worldoffoods.squash_seeds": "Armut Kabağı Tohumu",
   "block.worldoffoods.squash_crop": "Armut Kabağı Mahsulü",
+  "tooltip.worldoffoods.squash.tooltip": "Farklı şekil ve boyutlarda, tatlı veya tuzlu tariflerin yıldızı.",
 
   "item.worldoffoods.lettuce": "Marul",
   "item.worldoffoods.lettuce_seeds": "Marul Tohumu",
   "block.worldoffoods.lettuce_crop": "Marul Mahsulü",
+  "tooltip.worldoffoods.lettuce.tooltip": "Tavşanların favorisi, sandviçlerin vazgeçilmezi.",
 
   "item.worldoffoods.onion": "Soğan",
   "item.worldoffoods.onion_seeds": "Soğan Tohumu",
   "block.worldoffoods.onion_crop": "Soğan Mahsulü",
+  "tooltip.worldoffoods.onion.tooltip": "Doğrarken gözlerini yaşartabilir ama yemeklere tat katar.",
 
   "item.worldoffoods.radish": "Turp",
   "item.worldoffoods.radish_seeds": "Turp Tohumu",
   "block.worldoffoods.radish_crop": "Turp Mahsulü",
+  "tooltip.worldoffoods.radish.tooltip": "Acı ve çıtır, topraktan hızlıca fırlar.",
 
   "item.worldoffoods.rhubarb": "Ravent",
   "item.worldoffoods.rhubarb_seeds": "Ravent Tohumu",
   "block.worldoffoods.rhubarb_crop": "Ravent Mahsulü",
+  "tooltip.worldoffoods.rhubarb.tooltip": "Sapları ekşi, yaprakları zehirli. Dikkatli ol!",
 
   "item.worldoffoods.rutabaga": "Şalgam Otu",
   "item.worldoffoods.rutabaga_seeds": "Şalgam Otu Tohumu",
   "block.worldoffoods.rutabaga_crop": "Şalgam Otu Mahsulü",
+  "tooltip.worldoffoods.rutabaga.tooltip": "Soğuk iklimlerin dayanıklı ve doyurucu kökü.",
 
   "item.worldoffoods.soybean": "Soya Fasulyesi",
   "item.worldoffoods.soybean_seeds": "Soya Fasulyesi Tohumu",
   "block.worldoffoods.soybean_crop": "Soya Fasulyesi Mahsulü",
+  "tooltip.worldoffoods.soybean.tooltip": "İnanılmaz derecede çok yönlü, tofuya bile dönüşebilir!",
 
   "item.worldoffoods.spinach": "Ispanak",
   "item.worldoffoods.spinach_seeds": "Ispanak Tohumu",
   "block.worldoffoods.spinach_crop": "Ispanak Mahsulü",
+  "tooltip.worldoffoods.spinach.tooltip": "Bu yapraklı yeşillik sana demir gibi bir güç verebilir... belki.",
 
   "item.worldoffoods.sweetpotato": "Tatlı Patates",
   "item.worldoffoods.sweetpotato_seeds": "Tatlı Patates Tohumu",
   "block.worldoffoods.sweetpotato_crop": "Tatlı Patates Mahsulü",
+  "tooltip.worldoffoods.sweetpotato.tooltip": "Normal patatesin daha tatlı ve turuncu kuzeni.",
 
   "item.worldoffoods.greenonion": "Yeşil Soğan",
   "item.worldoffoods.greenonion_seeds": "Yeşil Soğan Tohumu",
   "block.worldoffoods.greenonion_crop": "Yeşil Soğan Mahsulü",
+  "tooltip.worldoffoods.greenonion.tooltip": "Soğanın keskinliğinin daha taze ve hafif bir hali.",
 
   "item.worldoffoods.tomatillo": "Yeşil Domates",
   "item.worldoffoods.tomatillo_seeds": "Yeşil Domates Tohumu",
   "block.worldoffoods.tomatillo_crop": "Yeşil Domates Mahsulü",
+  "tooltip.worldoffoods.tomatillo.tooltip": "Yeşil bir pelerin ardına gizlenmiş ekşi bir lezzet.",
 
   "item.worldoffoods.turnip": "Şalgam",
   "item.worldoffoods.turnip_seeds": "Şalgam Tohumu",
   "block.worldoffoods.turnip_crop": "Şalgam Mahsulü",
+  "tooltip.worldoffoods.turnip.tooltip": "Toprağın altında saklanan mütevazı ama doyurucu bir kök.",
 
   "item.worldoffoods.yam": "Yam",
   "item.worldoffoods.yam_seeds": "Yam Tohumu",
   "block.worldoffoods.yam_crop": "Yam Mahsulü",
+  "tooltip.worldoffoods.yam.tooltip": "Turuncu ve nişastalı, fırında harikalar yaratır.",
 
   "item.worldoffoods.zucchini": "Kabak",
   "item.worldoffoods.zucchini_seeds": "Kabak Tohumu",
   "block.worldoffoods.zucchini_crop": "Kabak Mahsulü",
+  "tooltip.worldoffoods.zucchini.tooltip": "Hızla büyür, dikkat etmezsen çiftliğini ele geçirebilir!",
 
   "item.worldoffoods.barley": "Arpa",
   "item.worldoffoods.barley_seeds": "Arpa Tohumu",
   "block.worldoffoods.barley_crop": "Arpa Mahsulü",
+  "tooltip.worldoffoods.barley.tooltip": "Sağlam bir tahıl, ekmek ve doyurucu çorbalar için ideal.",
 
   "item.worldoffoods.basil": "Fesleğen",
   "item.worldoffoods.basil_seeds": "Fesleğen Tohumu",
   "block.worldoffoods.basil_crop": "Fesleğen Mahsulü",
+  "tooltip.worldoffoods.basil.tooltip": "Hoş kokulu yaprakları yemeklere ferahlık katar.",
 
   "item.worldoffoods.ginger": "Zencefil",
   "item.worldoffoods.ginger_seeds": "Zencefil Tohumu",
   "block.worldoffoods.ginger_crop": "Zencefil Mahsulü",
+  "tooltip.worldoffoods.ginger.tooltip": "Keskin ve baharatlı bir kök, hem ısıtır hem canlandırır.",
 
   "item.worldoffoods.mustard": "Hardal",
   "item.worldoffoods.mustard_seeds": "Hardal Tohumu",
   "block.worldoffoods.mustard_crop": "Hardal Mahsulü",
+  "tooltip.worldoffoods.mustard.tooltip": "Minik tohumlarından güçlü ve keskin bir tat ortaya çıkar.",
 
   "item.worldoffoods.oat": "Yulaf",
   "item.worldoffoods.oat_seeds": "Yulaf Tohumu",
   "block.worldoffoods.oat_crop": "Yulaf Mahsulü",
+  "tooltip.worldoffoods.oat.tooltip": "Atların gücünün sırrı. Kurabiyeleri de fena olmaz.",
 
   "item.worldoffoods.peanut": "Yer Fıstığı",
   "item.worldoffoods.peanut_seeds": "Yer Fıstığı Tohumu",
   "block.worldoffoods.peanut_crop": "Yer Fıstığı Mahsulü",
+  "tooltip.worldoffoods.peanut.tooltip": "Toprağın altında büyüyen, kabuklu bir sürpriz.",
 
   "item.worldoffoods.pepper": "Biber",
   "item.worldoffoods.pepper_seeds": "Biber Tohumu",
   "block.worldoffoods.pepper_crop": "Biber Mahsulü",
+  "tooltip.worldoffoods.pepper.tooltip": "Yaygın bir baharat, her yemeğe yakışır.",
 
   "item.worldoffoods.rice": "Pirinç",
   "item.worldoffoods.rice_seeds": "Pirinç Tohumu",
   "block.worldoffoods.rice_crop": "Pirinç Mahsulü",
+  "tooltip.worldoffoods.rice.tooltip": "Sulak alanlarda yetişen minik taneler, dünyaları doyurur.",
 
   "item.worldoffoods.turmeric": "Zerdeçal",
   "item.worldoffoods.turmeric_seeds": "Zerdeçal Tohumu",
   "block.worldoffoods.turmeric_crop": "Zerdeçal Mahsulü",
+  "tooltip.worldoffoods.turmeric.tooltip": "Altın rengiyle boyayan, topraksı bir baharat.",
 
   "item.worldoffoods.vanilla": "Vanilya",
   "item.worldoffoods.vanilla_seeds": "Vanilya Tohumu",
   "block.worldoffoods.vanilla_crop": "Vanilya Mahsulü",
+  "tooltip.worldoffoods.vanilla.tooltip": "Tropik bir sarmaşığın tatlı kokulu sihirli çubukları.",
 
-  "item.worldoffoods.apple": "Elma",
-  "block.worldoffoods.apple_leaves": "Elma Yaprakları",
-  "block.worldoffoods.apple_sapling": "Elma Fidanı"
-
-
-
+  "item.worldoffoods.greenbean": "Yeşil Fasulye",
+  "item.worldoffoods.greenbean_seeds": "Yeşil Fasulye Tohumu",
+  "block.worldoffoods.greenbean_crop": "Yeşil Fasulye Mahsulü",
+  "tooltip.worldoffoods.greenbean.tooltip": "Çıtır çıtır ve her yemeğe yakışır."
 
 }
