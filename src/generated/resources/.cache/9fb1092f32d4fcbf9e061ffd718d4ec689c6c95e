@@ -1,0 +1,5 @@
+// 1.21.1	2025-09-25T03:05:45.6585153	Recipes
+bd0aafd081b6aabd38fabbcf0435244a8523b435 data/minecraft/advancement/recipes/misc/copper_ingot.json
+96ac2f53d75e9a3f62ec22068227d7661ec98ba8 data/minecraft/recipe/copper_ingot.json
+6c4181afd72fff470dd81f033f8322c7e9dea4e8 data/worldoffoods/advancement/recipes/misc/copper_nugget.json
+31ea35b2a725b9560499a2a79cea2261a9e23a55 data/worldoffoods/recipe/copper_nugget.json
