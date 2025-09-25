@@ -6,6 +6,7 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Items;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
@@ -129,11 +130,19 @@ public class ModCreativeModeTabs {
                     }).build());
 
     public static final Supplier<CreativeModeTab> ITEMS_TAB = CREATIVE_MODE_TAB.register("items_tab",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.COPPER_NUGGET.get()))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.COPPER_AXE.get()))
                     .withTabsBefore(ResourceLocation.fromNamespaceAndPath(WorldOfFoods.MOD_ID, "plants_tab"))
                     .title(Component.translatable("creativetab.worldoffoods.items"))
                     .displayItems((itemDisplayParameters, output) -> {
+                        output.accept(ModItems.COPPER_SWORD);
+                        output.accept(ModItems.COPPER_PICKAXE);
+                        output.accept(ModItems.COPPER_AXE);
+                        output.accept(ModItems.COPPER_SHOVEL);
+                        output.accept(ModItems.COPPER_HEO);
+
+                        output.accept(Items.COPPER_INGOT);
                         output.accept(ModItems.COPPER_NUGGET);
+
 
 
 

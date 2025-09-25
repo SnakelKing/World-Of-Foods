@@ -2,9 +2,7 @@ package net.cefu.worldoffoods.item;
 
 import net.cefu.worldoffoods.WorldOfFoods;
 import net.minecraft.network.chat.Component;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.TooltipFlag;
+import net.minecraft.world.item.*;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
@@ -367,7 +365,7 @@ public class ModItems {
                 }
             });
 
-    public static final DeferredItem<Item> ELDERBERRY =ITEMS.register("elderberry",
+   public static final DeferredItem<Item> ELDERBERRY =ITEMS.register("elderberry",
             () -> new Item(new Item.Properties().food(ModFoodProperties.ELDERBERRY)){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -376,7 +374,7 @@ public class ModItems {
                 }
             });
 
-    public static final DeferredItem<Item> CURRANT =ITEMS.register("currant",
+   public static final DeferredItem<Item> CURRANT =ITEMS.register("currant",
             () -> new Item(new Item.Properties().food(ModFoodProperties.CURRANT)){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -385,7 +383,7 @@ public class ModItems {
                 }
             });
 
-    public static final DeferredItem<Item> CRANBERRY =ITEMS.register("cranberry",
+   public static final DeferredItem<Item> CRANBERRY =ITEMS.register("cranberry",
             () -> new Item(new Item.Properties().food(ModFoodProperties.CRANBERRY)){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -394,7 +392,7 @@ public class ModItems {
                 }
             });
 
-    public static final DeferredItem<Item> LEEK =ITEMS.register("leek",
+   public static final DeferredItem<Item> LEEK =ITEMS.register("leek",
             () -> new Item(new Item.Properties().food(ModFoodProperties.LEEK)){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -403,7 +401,7 @@ public class ModItems {
                 }
             });
 
-    public static final DeferredItem<Item> CORN =ITEMS.register("corn",
+   public static final DeferredItem<Item> CORN =ITEMS.register("corn",
             () -> new Item(new Item.Properties().food(ModFoodProperties.CORN)){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -412,7 +410,7 @@ public class ModItems {
                 }
             });
 
-    public static final DeferredItem<Item> EGGPLANT =ITEMS.register("eggplant",
+   public static final DeferredItem<Item> EGGPLANT =ITEMS.register("eggplant",
             () -> new Item(new Item.Properties().food(ModFoodProperties.EGGPLANT)){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -421,7 +419,7 @@ public class ModItems {
                 }
             });
 
-    public static final DeferredItem<Item> BROCCOLI =ITEMS.register("broccoli",
+   public static final DeferredItem<Item> BROCCOLI =ITEMS.register("broccoli",
             () -> new Item(new Item.Properties().food(ModFoodProperties.BROCCOLI)){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -432,7 +430,7 @@ public class ModItems {
 
 
 
-    public static final DeferredItem<Item> RICE = ITEMS.register("rice",
+   public static final DeferredItem<Item> RICE = ITEMS.register("rice",
             ()->new Item(new Item.Properties()){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -441,7 +439,7 @@ public class ModItems {
                 }
             });
 
-    public static final DeferredItem<Item> BLACKPEPPER = ITEMS.register("blackpepper",
+   public static final DeferredItem<Item> BLACKPEPPER = ITEMS.register("blackpepper",
             ()->new Item(new Item.Properties()){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -450,7 +448,7 @@ public class ModItems {
                 }
             });
 
-    public static final DeferredItem<Item> BASIL = ITEMS.register("basil",
+   public static final DeferredItem<Item> BASIL = ITEMS.register("basil",
             ()->new Item(new Item.Properties()){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -459,7 +457,7 @@ public class ModItems {
                 }
             });
 
-    public static final DeferredItem<Item> BARLEY = ITEMS.register("barley",
+   public static final DeferredItem<Item> BARLEY = ITEMS.register("barley",
             ()->new Item(new Item.Properties()){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -468,7 +466,7 @@ public class ModItems {
                 }
             });
 
-    public static final DeferredItem<Item> SPINACH = ITEMS.register("spinach",
+   public static final DeferredItem<Item> SPINACH = ITEMS.register("spinach",
             ()->new Item(new Item.Properties()){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
@@ -476,6 +474,26 @@ public class ModItems {
                     super.appendHoverText(stack, context, tooltipComponents, tooltipFlag);
                 }
             });
+
+   public static final DeferredItem<SwordItem> COPPER_SWORD = ITEMS.register("copper_sword",
+           () -> new SwordItem(ModToolTiers.COPPER, new Item.Properties()
+                   .attributes(SwordItem.createAttributes(ModToolTiers.COPPER, 3,-2.4f))));
+
+    public static final DeferredItem<PickaxeItem> COPPER_PICKAXE = ITEMS.register("copper_pickaxe",
+            () -> new PickaxeItem(ModToolTiers.COPPER, new Item.Properties()
+                    .attributes(PickaxeItem.createAttributes(ModToolTiers.COPPER, 1,-2.8f))));
+
+    public static final DeferredItem<AxeItem> COPPER_AXE = ITEMS.register("copper_axe",
+            () -> new AxeItem(ModToolTiers.COPPER, new Item.Properties()
+                    .attributes(AxeItem.createAttributes(ModToolTiers.COPPER, 6.5f,-3.2f))));
+
+    public static final DeferredItem<HoeItem> COPPER_HEO = ITEMS.register("copper_hoe",
+            () -> new HoeItem(ModToolTiers.COPPER, new Item.Properties()
+                    .attributes(HoeItem.createAttributes(ModToolTiers.COPPER, -1,-2.0f))));
+
+    public static final DeferredItem<ShovelItem> COPPER_SHOVEL = ITEMS.register("copper_shovel",
+            () -> new ShovelItem(ModToolTiers.COPPER, new Item.Properties()
+                    .attributes(ShovelItem.createAttributes(ModToolTiers.COPPER, 1.5f,-3.0f))));
 
 
 

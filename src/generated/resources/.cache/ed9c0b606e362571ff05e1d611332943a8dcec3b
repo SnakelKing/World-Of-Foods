@@ -1,4 +1,4 @@
-// 1.21.1	2025-09-25T02:26:51.3437325	Item Models: worldoffoods
+// 1.21.1	2025-09-25T16:07:16.2885254	Item Models: worldoffoods
 c806b8ece0fbf7dd2cb7d7106a6d9fb653efa4b7 assets/worldoffoods/models/item/artichoke.json
 32a6198830dd6403080b44aad865172b35323423 assets/worldoffoods/models/item/asparagus.json
 529e5b81ed66d3399116fc3b5633fc809c1e0502 assets/worldoffoods/models/item/barley.json
@@ -13,7 +13,12 @@ d0d08b816895becce965db8e046c29fedfe70d16 assets/worldoffoods/models/item/broccol
 605b2b2b3d071556ad8b686fe922721e5c86b241 assets/worldoffoods/models/item/cauliflower.json
 21e33bf9993fb6d1a4a6e910dac03da78604c434 assets/worldoffoods/models/item/celery.json
 283fa9c33c7208e8493701539c0771d9c960b316 assets/worldoffoods/models/item/chilepepper.json
+3ea8cc26262a61eb40a4a2342ad1ad2f72b930cd assets/worldoffoods/models/item/copper_axe.json
+571e32be5841e11312cb4af82ada1f83d498aaeb assets/worldoffoods/models/item/copper_hoe.json
 e9a60e5143452717d5c59c761ce33bc08abe186b assets/worldoffoods/models/item/copper_nugget.json
+fb0cc511532e2ad89d0e197458691b0a62d6e4cb assets/worldoffoods/models/item/copper_pickaxe.json
+e983ee3bea39ccfa91a5939945f577aa983dda39 assets/worldoffoods/models/item/copper_shovel.json
+40433e16bab91768f12b484f3f4c984574691886 assets/worldoffoods/models/item/copper_sword.json
 ff4a1c997d574438140b99cf306ca3f0ac048838 assets/worldoffoods/models/item/corn.json
 38867c420097456f8592f8fd9f6a4093d6847d39 assets/worldoffoods/models/item/cranberry.json
 88fc9164c0f35313627572d69e47f670db80d2cb assets/worldoffoods/models/item/cucumber.json

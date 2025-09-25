@@ -85,5 +85,11 @@ public class ModItemsModelProvider extends ItemModelProvider {
 
         basicItem(ModItems.ZUCCHINI.get());
 
+        handheldItem(ModItems.COPPER_AXE.get());
+        handheldItem(ModItems.COPPER_HEO.get());
+        handheldItem(ModItems.COPPER_PICKAXE.get());
+        handheldItem(ModItems.COPPER_SHOVEL.get());
+        handheldItem(ModItems.COPPER_SWORD.get());
+
     }
 }
