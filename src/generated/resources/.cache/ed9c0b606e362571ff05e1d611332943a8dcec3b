@@ -1,4 +1,4 @@
-// 1.21.1	2025-09-25T16:07:16.2885254	Item Models: worldoffoods
+// 1.21.1	2025-10-01T00:02:16.4979013	Item Models: worldoffoods
 c806b8ece0fbf7dd2cb7d7106a6d9fb653efa4b7 assets/worldoffoods/models/item/artichoke.json
 32a6198830dd6403080b44aad865172b35323423 assets/worldoffoods/models/item/asparagus.json
 529e5b81ed66d3399116fc3b5633fc809c1e0502 assets/worldoffoods/models/item/barley.json
@@ -14,7 +14,11 @@ d0d08b816895becce965db8e046c29fedfe70d16 assets/worldoffoods/models/item/broccol
 21e33bf9993fb6d1a4a6e910dac03da78604c434 assets/worldoffoods/models/item/celery.json
 283fa9c33c7208e8493701539c0771d9c960b316 assets/worldoffoods/models/item/chilepepper.json
 3ea8cc26262a61eb40a4a2342ad1ad2f72b930cd assets/worldoffoods/models/item/copper_axe.json
+8875c999435b345a4a3217dbafdec60612e4906f assets/worldoffoods/models/item/copper_boots.json
+1675a124dd30ebbbf269f4e2984baf1d7f3d0b24 assets/worldoffoods/models/item/copper_chestplate.json
+8582882d0aaf5162efe828ee36a8d2dafc477179 assets/worldoffoods/models/item/copper_helmet.json
 571e32be5841e11312cb4af82ada1f83d498aaeb assets/worldoffoods/models/item/copper_hoe.json
+1a4264c3198939b687e087f97333acd3fa842d87 assets/worldoffoods/models/item/copper_leggings.json
 e9a60e5143452717d5c59c761ce33bc08abe186b assets/worldoffoods/models/item/copper_nugget.json
 fb0cc511532e2ad89d0e197458691b0a62d6e4cb assets/worldoffoods/models/item/copper_pickaxe.json
 e983ee3bea39ccfa91a5939945f577aa983dda39 assets/worldoffoods/models/item/copper_shovel.json

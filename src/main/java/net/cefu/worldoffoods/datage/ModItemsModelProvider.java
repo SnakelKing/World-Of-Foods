@@ -3,10 +3,18 @@ package net.cefu.worldoffoods.datage;
 import net.cefu.worldoffoods.WorldOfFoods;
 import net.cefu.worldoffoods.item.ModItems;
 import net.minecraft.data.PackOutput;
+import net.minecraft.resources.ResourceKey;
+import net.minecraft.world.item.armortrim.TrimMaterial;
+import net.minecraft.world.item.armortrim.TrimMaterials;
 import net.neoforged.neoforge.client.model.generators.ItemModelProvider;
 import net.neoforged.neoforge.common.data.ExistingFileHelper;
 
+import java.util.LinkedHashMap;
+
 public class ModItemsModelProvider extends ItemModelProvider {
+
+
+
     public ModItemsModelProvider(PackOutput output, ExistingFileHelper existingFileHelper) {
         super(output, WorldOfFoods.MOD_ID, existingFileHelper);
     }
@@ -16,6 +24,7 @@ public class ModItemsModelProvider extends ItemModelProvider {
         basicItem(ModItems.COPPER_NUGGET.get());
 
         basicItem(ModItems.ARTICHOKE.get());
+        basicItem(ModItems.ARTICHOKE_SEEDS.get());
         basicItem(ModItems.ASPARAGUS.get());
 
         basicItem(ModItems.BARLEY.get());
@@ -86,10 +95,16 @@ public class ModItemsModelProvider extends ItemModelProvider {
         basicItem(ModItems.ZUCCHINI.get());
 
         handheldItem(ModItems.COPPER_AXE.get());
-        handheldItem(ModItems.COPPER_HEO.get());
+        handheldItem(ModItems.COPPER_HOE.get());
         handheldItem(ModItems.COPPER_PICKAXE.get());
         handheldItem(ModItems.COPPER_SHOVEL.get());
         handheldItem(ModItems.COPPER_SWORD.get());
+
+        // Zırh item'larının envanter modelleri için basicItem kullanılır.
+        basicItem(ModItems.COPPER_HELMET.get());
+        basicItem(ModItems.COPPER_CHESTPLATE.get());
+        basicItem(ModItems.COPPER_LEGGINGS.get());
+        basicItem(ModItems.COPPER_BOOTS.get());
 
     }
 }

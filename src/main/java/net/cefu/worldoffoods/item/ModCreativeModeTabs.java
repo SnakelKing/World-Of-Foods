@@ -25,7 +25,7 @@ public class ModCreativeModeTabs {
                        output.accept(ModItems.TOMATO);
 //                       output.accept(ModItems.TOMATO_SEEDS);
                        output.accept(ModItems.ARTICHOKE);
-//                       output.accept(ModItems.ARTICHOKE_SEEDS);
+                       output.accept(ModItems.ARTICHOKE_SEEDS);
                        output.accept(ModItems.ASPARAGUS);
 //                       output.accept(ModItems.ASPARAGUS_SEEDS);
                        output.accept(ModItems.BLACKBERRY);
@@ -138,7 +138,12 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.COPPER_PICKAXE);
                         output.accept(ModItems.COPPER_AXE);
                         output.accept(ModItems.COPPER_SHOVEL);
-                        output.accept(ModItems.COPPER_HEO);
+                        output.accept(ModItems.COPPER_HOE);
+
+                        output.accept(ModItems.COPPER_HELMET);
+                        output.accept(ModItems.COPPER_CHESTPLATE);
+                        output.accept(ModItems.COPPER_LEGGINGS);
+                        output.accept(ModItems.COPPER_BOOTS);
 
                         output.accept(Items.COPPER_INGOT);
                         output.accept(ModItems.COPPER_NUGGET);
