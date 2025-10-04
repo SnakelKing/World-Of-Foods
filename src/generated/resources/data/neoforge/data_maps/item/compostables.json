@@ -1,0 +1,310 @@
+{
+  "values": {
+    "worldoffoods:artichoke": {
+      "chance": 0.45
+    },
+    "worldoffoods:artichoke_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:asparagus": {
+      "chance": 0.45
+    },
+    "worldoffoods:asparagus_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:barley": {
+      "chance": 0.45
+    },
+    "worldoffoods:barley_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:basil": {
+      "chance": 0.45
+    },
+    "worldoffoods:basil_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:bellpepper": {
+      "chance": 0.45
+    },
+    "worldoffoods:bellpepper_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:blackbean": {
+      "chance": 0.45
+    },
+    "worldoffoods:blackbean_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:blackberry": {
+      "chance": 0.45
+    },
+    "worldoffoods:blackberry_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:blackpepper": {
+      "chance": 0.45
+    },
+    "worldoffoods:blackpepper_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:blueberry": {
+      "chance": 0.45
+    },
+    "worldoffoods:blueberry_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:broccoli": {
+      "chance": 0.45
+    },
+    "worldoffoods:broccoli_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:cabbage": {
+      "chance": 0.45
+    },
+    "worldoffoods:cabbage_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:cauliflower": {
+      "chance": 0.45
+    },
+    "worldoffoods:cauliflower_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:celery": {
+      "chance": 0.45
+    },
+    "worldoffoods:celery_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:chilepepper": {
+      "chance": 0.45
+    },
+    "worldoffoods:chilepepper_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:corn": {
+      "chance": 0.45
+    },
+    "worldoffoods:corn_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:cranberry": {
+      "chance": 0.45
+    },
+    "worldoffoods:cranberry_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:cucumber": {
+      "chance": 0.45
+    },
+    "worldoffoods:cucumber_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:currant": {
+      "chance": 0.45
+    },
+    "worldoffoods:currant_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:eggplant": {
+      "chance": 0.45
+    },
+    "worldoffoods:eggplant_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:elderberry": {
+      "chance": 0.45
+    },
+    "worldoffoods:elderberry_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:garlic": {
+      "chance": 0.45
+    },
+    "worldoffoods:garlic_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:ginger": {
+      "chance": 0.45
+    },
+    "worldoffoods:ginger_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:grape": {
+      "chance": 0.45
+    },
+    "worldoffoods:grape_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:greenbean": {
+      "chance": 0.45
+    },
+    "worldoffoods:greenbean_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:greenonion": {
+      "chance": 0.45
+    },
+    "worldoffoods:greenonion_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:hops": {
+      "chance": 0.45
+    },
+    "worldoffoods:hops_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:kale": {
+      "chance": 0.45
+    },
+    "worldoffoods:kale_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:leek": {
+      "chance": 0.45
+    },
+    "worldoffoods:leek_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:lettuce": {
+      "chance": 0.45
+    },
+    "worldoffoods:lettuce_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:mustard": {
+      "chance": 0.45
+    },
+    "worldoffoods:mustard_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:oat": {
+      "chance": 0.45
+    },
+    "worldoffoods:oat_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:onion": {
+      "chance": 0.45
+    },
+    "worldoffoods:onion_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:peanut": {
+      "chance": 0.45
+    },
+    "worldoffoods:peanut_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:pineapple": {
+      "chance": 0.45
+    },
+    "worldoffoods:pineapple_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:radish": {
+      "chance": 0.45
+    },
+    "worldoffoods:radish_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:raspberry": {
+      "chance": 0.45
+    },
+    "worldoffoods:raspberry_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:rhubarb": {
+      "chance": 0.45
+    },
+    "worldoffoods:rhubarb_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:rice": {
+      "chance": 0.45
+    },
+    "worldoffoods:rice_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:rutabaga": {
+      "chance": 0.45
+    },
+    "worldoffoods:rutabaga_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:soybean": {
+      "chance": 0.45
+    },
+    "worldoffoods:soybean_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:spinach": {
+      "chance": 0.45
+    },
+    "worldoffoods:spinach_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:squash": {
+      "chance": 0.45
+    },
+    "worldoffoods:squash_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:strawberry": {
+      "chance": 0.45
+    },
+    "worldoffoods:strawberry_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:sweetpotato": {
+      "chance": 0.45
+    },
+    "worldoffoods:sweetpotato_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:tomatillo": {
+      "chance": 0.45
+    },
+    "worldoffoods:tomatillo_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:tomato": {
+      "chance": 0.45
+    },
+    "worldoffoods:tomato_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:turmeric": {
+      "chance": 0.45
+    },
+    "worldoffoods:turmeric_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:turnip": {
+      "chance": 0.45
+    },
+    "worldoffoods:turnip_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:vanilla": {
+      "chance": 0.45
+    },
+    "worldoffoods:vanilla_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:yam": {
+      "chance": 0.45
+    },
+    "worldoffoods:yam_seeds": {
+      "chance": 0.25
+    },
+    "worldoffoods:zucchini": {
+      "chance": 0.45
+    },
+    "worldoffoods:zucchini_seeds": {
+      "chance": 0.25
+    }
+  }
+}

@@ -515,8 +515,120 @@ public class ModItems {
    // tohumlar
    public static final DeferredItem<Item> ARTICHOKE_SEEDS = ITEMS.register("artichoke_seeds",
            () -> new ItemNameBlockItem(ModBlocks.ARTICHOKE_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> ASPARAGUS_SEEDS = ITEMS.register("asparagus_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.ASPARAGUS_CROP.get(),new Item.Properties()));
 
+   public static final DeferredItem<Item> BARLEY_SEEDS = ITEMS.register("barley_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.BARLEY_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> BASIL_SEEDS = ITEMS.register("basil_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.BASIL_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> BELLPEPPER_SEEDS = ITEMS.register("bellpepper_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.BELLPEPPER_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> BLACKBERRY_SEEDS = ITEMS.register("blackberry_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.BLACKBERRY_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> BLACKPEPPER_SEEDS = ITEMS.register("blackpepper_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.BLACKPEPPER_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> BLUEBERRY_SEEDS = ITEMS.register("blueberry_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.BLUEBERRY_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> BROCCOLI_SEEDS = ITEMS.register("broccoli_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.BROCCOLI_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> BLACKBEAN_SEEDS = ITEMS.register("blackbean_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.BLACKBEAN_CROP.get(),new Item.Properties()));
 
+   public static final DeferredItem<Item> CABBAGE_SEEDS = ITEMS.register("cabbage_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.CABBAGE_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> CAULIFLOWER_SEEDS = ITEMS.register("cauliflower_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.CAULIFLOWER_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> CELERY_SEEDS = ITEMS.register("celery_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.CELERY_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> CHILEPEPPER_SEEDS = ITEMS.register("chilepepper_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.CHILEPEPPER_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> CORN_SEEDS = ITEMS.register("corn_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.CORN_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> CRANBERRY_SEEDS = ITEMS.register("cranberry_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.CRANBERRY_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> CUCUMBER_SEEDS = ITEMS.register("cucumber_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.CUCUMBER_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> CURRANT_SEEDS = ITEMS.register("currant_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.CURRANT_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> EGGPLANT_SEEDS = ITEMS.register("eggplant_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.EGGPLANT_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> ELDERBERRY_SEEDS = ITEMS.register("elderberry_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.ELDERBERRY_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> GARLIC_SEEDS = ITEMS.register("garlic_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.GARLIC_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> GINGER_SEEDS = ITEMS.register("ginger_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.GINGER_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> GRAPE_SEEDS = ITEMS.register("grape_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.GRAPE_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> GREENBEAN_SEEDS = ITEMS.register("greenbean_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.GREENBEAN_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> GREENONION_SEEDS = ITEMS.register("greenonion_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.GREENONION_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> HOPS_SEEDS = ITEMS.register("hops_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.HOPS_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> KALE_SEEDS = ITEMS.register("kale_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.KALE_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> LEEK_SEEDS = ITEMS.register("leek_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.LEEK_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> LETTUCE_SEEDS = ITEMS.register("lettuce_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.LETTUCE_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> MUSTARD_SEEDS = ITEMS.register("mustard_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.MUSTARD_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> OAT_SEEDS = ITEMS.register("oat_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.OAT_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> ONION_SEEDS = ITEMS.register("onion_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.ONION_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> PEANUT_SEEDS = ITEMS.register("peanut_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.PEANUT_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> PINEAPPLE_SEEDS = ITEMS.register("pineapple_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.PINEAPPLE_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> RADISH_SEEDS = ITEMS.register("radish_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.RADISH_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> RASPBERRY_SEEDS = ITEMS.register("raspberry_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.RASPBERRY_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> RHUBARB_SEEDS = ITEMS.register("rhubarb_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.RHUBARB_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> RICE_SEEDS = ITEMS.register("rice_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.RICE_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> RUTABAGA_SEEDS = ITEMS.register("rutabaga_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.RUTABAGA_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> SOYBEAN_SEEDS = ITEMS.register("soybean_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.SOYBEAN_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> SPINACH_SEEDS = ITEMS.register("spinach_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.SPINACH_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> SQUASH_SEEDS = ITEMS.register("squash_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.SQUASH_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> STRAWBERRY_SEEDS = ITEMS.register("strawberry_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.STRAWBERRY_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> SWEETPOTATO_SEEDS = ITEMS.register("sweetpotato_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.SWEETPOTATO_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> TOMATILLO_SEEDS = ITEMS.register("tomatillo_seeds",
+           () -> new ItemNameBlockItem(ModBlocks.TOMATILLO_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> TOMATO_SEEDS = ITEMS.register("tomato_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.TOMATO_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> TURMERIC_SEEDS = ITEMS.register("turmeric_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.TURMERIC_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> TURNIP_SEEDS = ITEMS.register("turnip_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.TURNIP_CROP.get(),new Item.Properties()));
+
+   public static final DeferredItem<Item> VANILLA_SEEDS = ITEMS.register("vanilla_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.VANILLA_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> YAM_SEEDS = ITEMS.register("yam_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.YAM_CROP.get(),new Item.Properties()));
+   public static final DeferredItem<Item> ZUCCHINI_SEEDS = ITEMS.register("zucchini_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.ZUCCHINI_CROP.get(),new Item.Properties()));
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);

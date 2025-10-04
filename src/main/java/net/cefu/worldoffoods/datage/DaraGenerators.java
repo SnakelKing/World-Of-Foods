@@ -17,8 +17,8 @@ import java.util.List;
 import java.util.concurrent.CompletableFuture;
 
 
-@EventBusSubscriber(modid = WorldOfFoods.MOD_ID, bus = EventBusSubscriber.Bus.MOD)
 
+@EventBusSubscriber(modid = WorldOfFoods.MOD_ID, bus = EventBusSubscriber.Bus.MOD)
 public class DaraGenerators {
 
     @SubscribeEvent
@@ -30,7 +30,6 @@ public class DaraGenerators {
 
         generator.addProvider(event.includeServer(), new LootTableProvider(packOutput, Collections.emptySet(),
                 List.of(new LootTableProvider.SubProviderEntry(ModBlockLootProvider::new, LootContextParamSets.BLOCK)), lookupProvider));
-
         generator.addProvider(event.includeServer(), new ModRecipeProvider(packOutput, lookupProvider));
 
         BlockTagsProvider blockTagsProvider = new ModBlockTagProvider(packOutput, lookupProvider, existingFileHelper);
@@ -39,5 +38,10 @@ public class DaraGenerators {
 
         generator.addProvider(event.includeClient(), new ModItemsModelProvider(packOutput, existingFileHelper));
         generator.addProvider(event.includeClient(), new ModBlockStateProvider(packOutput, existingFileHelper));
+
+        generator.addProvider(event.includeServer(), new ModItemTagProvider(packOutput, lookupProvider, blockTagsProvider.contentsGetter(), existingFileHelper));
+        generator.addProvider(event.includeServer(), new ModDataMapProvider(packOutput, lookupProvider));
+
+        //generator.addProvider(event.includeServer(), new ModDatapackProvider(packOutput, lookupProvider));
     }
 }
